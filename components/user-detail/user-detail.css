@@ -1,0 +1,43 @@
+.photos {
+    padding: 10em;
+    border-radius: 10em;
+    color:darkred;
+    background-color: antiquewhite;
+    text-decoration-line: none;
+    
+}
+
+.photos:hover {
+    background-color: burlywood;
+    padding: 15em;
+    background-size: 10em;
+    border-radius: 10em;
+}
+
+.profileImage {
+    box-shadow: 0 4em 8em 0 rgba(0, 0, 0, 0.2);
+    max-width: 300em;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+}
+
+.cs142-detail-photosButton {
+    padding:0.35em 1.2em;   
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:sans-serif;
+    font-weight:300;
+    text-align:center;
+}
+
+.cs142-detail-photosButton:hover {
+    background-color: cyan;
+}
+
+.cs142-detail-location {
+    background-image: 
+}
+

@@ -1,0 +1,35 @@
+/*
+CSS for the CS142 project #5 main page
+
+Since CSS uses a global name space for classes we should use class names starting with
+cs142-main- here.
+*/
+
+
+cs142-main-body {
+    background-color: antiquewhite;
+}
+
+.cs142-main-homeButton {
+    background-color:darkred;
+}
+
+.homeButton {
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+    text-decoration-line: none;
+}
+
+.cs142-main-version {
+    color: aqua;
+}
+
+.cs142-main-nameShown {
+    padding: 1em;
+    position: sticky;
+    color: azure;
+}
+
+.cs142-main-nameShown:hover {
+    color: orange;
+}
